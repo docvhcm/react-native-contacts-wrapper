@@ -28,5 +28,14 @@
     {
       "name": "Oliver Jacobs"
     }
-  ]
+  ],
+  "peerDependencies": {
+    "react-native": ">=0.51.0"
+  },
+  "devDependencies": {
+    "react-native": ">=0.51.0"
+  },
+  "optionalDependencies": {
+    "react-native-action-sheet": "^2.2.0"
+  }
 }
